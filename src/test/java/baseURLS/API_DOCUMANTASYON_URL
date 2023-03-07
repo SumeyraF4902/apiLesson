@@ -1,0 +1,29 @@
+https://swapi.dev/documentation#intro
+base64decote.org    == decode -- encode etmekk icin( yani verilen basic karsisindaki kodu bu siteye gidip yapıstırdıgında decode ettiginde username ve passworduu verir
+https://https://restful-booker.herokuapp.com/
+ https://gorest.co.in     = bu sayfadan  ruquest method API  dökümantayon okuyabilirsin
+
+firstname     ---->>ile ilgili doc. a bakabilirsiniz. Doc. firstname in nasıl kullanılacağı ile ilgili bilgi bulunmaktadır. Query olarak kullanılmalıdır.
+https://fsaetr-01-22.slack.com/archives/C03VDJHAD0R/p1677353586124439
+
+https://swapi.dev/documentation#intro
+https://swapi.dev/api
+
+http://api.zippopotam.us
+
+ //https://developers.themoviedb.org/3/authentication/create-request-token   app key alabileceğim yer
+        // APİ_KEY =32a372dd7b4f87b14f54baaaeb466484
+
+        PRİMARY TOKEN: 1752c8a34b3ff3abb73f7d4935d57ab101fbd2cbef303f2b9c0c29e4e42fcd5a
+
+        pojo class olustururken  eğer kaç tane pojo class oluştuuracağımıza karar veremezsek buu sayfadan bakabiliriz
+      ****  https://www.jsonschema2pojo.org/
+        pacgage ve classname adı onemli değil istediğini yaz ama sağ taraftaki
+        source type= json        Annotation style=  None     Validation annaotations =None  isaretle birde Use double Numbers, ınclude getters and setters,
+         ınclude constructors,  ınclude toString, (Alloow additional properties ister dahil et ister etme hoca dahil etmedi) kutularını tikle preview i enterla.
+         pojo classlar olusmus halde gelir( toplam7/ 8 yer işaretli)
+
+         EXPECTED DATA VE ACTUAL DATANIN KEYLERİ İMPORT ETME BİRBİRİNE UYUMUNU SAĞLAMA
+             @JsonIgnoreProperties(ignoreUnknown = true)========> eğer expected datanın keyword ile actual datanın keyword uyusmazsa onları uyusması için ignor ediyor
+             bizim için önemli olan valuların uyusması onun için keyleri ignor yapabiliriz
+              İMPOORTLARIN OLDUĞU YERE YAZARIZ BUNU==>@JsonIgnoreProperties(ignoreUnknown = true)
